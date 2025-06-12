@@ -74,7 +74,4 @@ Victory
 
 Parabéns! Você venceu!
 
-Contributing
-
 Feel free to fork this project, submit issues, or create pull requests to improve the game!
-License
