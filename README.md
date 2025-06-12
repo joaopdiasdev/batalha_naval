@@ -78,18 +78,3 @@ Contributing
 
 Feel free to fork this project, submit issues, or create pull requests to improve the game!
 License
-
-This project is open-source and available under the MIT License.
-
-
-### Key sections in the `README.md` file:
-- **Project Description**: Briefly explains the game and what it offers.
-- **Features**: Highlights important features like ship placement and combat modes.
-- **Installation**: Explains how to install dependencies and run the game.
-- **How to Play**: Provides a general walkthrough for users to understand how the game works.
-- **Game Modes**: Explains the two available modes.
-- **Contributing**: Encourages contributions and provides guidance for potential contributors.
-- **License**: Includes the open-source license info (if applicable).
-
-Make sure to customize any sections if you have further requirements for the game or additional features!
-
